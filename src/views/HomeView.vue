@@ -42,7 +42,7 @@
                         Have Worked With
                     </h1>
 
-                    <div class="grid items-center w-full grid-cols-3 gap-5 mt-4 text-center md:grid-cols-8">
+                    <div class="grid items-center w-full grid-cols-3 gap-3 mt-4 text-center md:grid-cols-8">
                         <div class="flex items-center justify-center h-12 px-3 py-4 overflow-hidden bg-white rounded-sm bg-opacity-10 compimg">
                             <img src="@/assets/img/compicon/compicons-gray/compicon-1.png" alt="logoweb.png" class="" />
                         </div>
@@ -77,63 +77,64 @@
                 <div class="flex flex-col md:flex-row md:justify-between wrap gap-9">
                     <!-- Blog -->
                     <div class="md:w-4/6 blog-wrap">
-                        <h1 class="text-2xl font-bold text-gray-300">
+                        <h1 class="text-xl font-bold text-gray-300 md:text-2xl">
                             👨‍💻 Learn with Writing
                         </h1>
-                        <div class="flex flex-col gap-8 mt-6 card-container">
+                        <div class="flex flex-col gap-5 mt-6 card-container">
                             <!-- Article -->
                             <div class="card">
-                                <div class="flex flex-row items-center gap-4 row">
-                                    <img class="object-cover h-40 rounded-md w-28 md:h-36 md:w-44"
+                                <div class="flex flex-row items-start gap-4 row">
+                                    <img class="object-cover h-full rounded-md w-28 md:h-36 md:w-44"
                                         src="@/assets/img/images/img-card-erp.png" alt="card.png" />
                                     <div class="flex flex-col gap-2 content-card">
-                                        <a href="#" class="text-xl font-bold text-gray-200 md:text-xl">
+                                        <a href="#" class="text-base font-bold text-gray-200 md:text-xl">
                                             Kenalan sama Ekosistem ERP
                                         </a>
                                         <p
-                                            class="text-sm leading-6 tracking-tighter text-gray-500 md:tracking-wider md:text-sm">
+                                            class="overflow-hidden text-xs leading-4 text-gray-500 md:leading-6 md:tracking-wider md:text-sm">
                                             Jelajahi Kreativitas Tanpa Batas: Pahami Gestalt Principle
-                                            dalam Satu Praktek! Temukan Rasa Memukau Desain UI dalam
-                                            Sekejap Mata!
+                                            dalam Satu Praktek!
                                         </p>
                                         <a href="#" class="text-sm font-semibold text-indigo-500">Read More »</a>
                                     </div>
                                 </div>
                             </div>
 
+                            <hr class="opacity-20">
+
                             <div class="card">
-                                <div class="flex flex-row-reverse items-center gap-4 md:flex-row row">
-                                    <img class="object-cover h-40 rounded-md w-28 md:h-36 md:w-44"
+                                <div class="flex flex-row-reverse items-start gap-4 md:flex-row row">
+                                    <img class="object-cover h-full rounded-md w-28 md:h-36 md:w-44"
                                         src="@/assets/img/images/img-card-artdir.png" alt="card.png" />
                                     <div class="flex flex-col gap-2 content-card">
-                                        <a href="#" class="text-xl font-bold text-gray-200 md:text-xl">
-                                            Nekat Jadi PM Art Director
+                                        <a href="#" class="text-base font-bold text-gray-200 md:text-xl">
+                                            Nekat Jadi PM Director
                                         </a>
-                                        <p
-                                            class="text-sm leading-6 tracking-tighter text-gray-500 md:tracking-wider md:text-sm">
-                                            Jelajahi Kreativitas Tanpa Batas: Pahami Gestalt Principle
-                                            dalam Satu Praktek! Temukan Rasa Memukau Desain UI dalam
-                                            Sekejap Mata!
-                                        </p>
+                                            <p
+                                                class="overflow-hidden text-xs leading-4 text-gray-500 md:leading-6 md:tracking-wider md:text-sm">
+                                                Jelajahi Kreativitas Tanpa Batas: Pahami Gestalt Principle
+                                                dalam Satu Praktek!
+                                            </p>
                                         <a href="#" class="text-sm font-semibold text-indigo-500">Read More »</a>
                                     </div>
                                 </div>
                             </div>
 
+                            <hr class="opacity-20">
+
                             <div class="card">
-                                <div class="flex flex-row items-center gap-4 row">
-                                    <img class="object-cover h-40 rounded-md w-28 md:h-36 md:w-44"
+                                <div class="flex flex-row items-start gap-4 row">
+                                    <img class="object-cover h-full rounded-md w-28 md:h-36 md:w-44"
                                         src="@/assets/img/images/img-card.png" alt="card.png" />
                                     <div class="flex flex-col gap-2 content-card">
-                                        <a href="#" class="text-xl font-bold text-gray-200 md:text-xl">
+                                        <a href="#" class="text-base font-bold text-gray-200 md:text-xl">
                                             Pahami UX Gestalt Principle dalam Sekejap!
                                         </a>
-                                        <p
-                                            class="text-sm leading-6 tracking-tighter text-gray-500 md:tracking-wider md:text-sm">
-                                            Jelajahi Kreativitas Tanpa Batas: Pahami Gestalt Principle
-                                            dalam Satu Praktek! Temukan Rasa Memukau Desain UI dalam
-                                            Sekejap Mata!
-                                        </p>
+                                            <p
+                                                class="overflow-hidden text-xs leading-4 text-gray-500 md:leading-6 md:tracking-wider md:text-sm">
+                                                Jelajahi Kreativitas Tanpa Batas: Pahami Gestalt Principle
+                                                dalam Satu Praktek!
+                                            </p>
                                         <a href="#" class="text-sm font-semibold text-indigo-500">Read More »</a>
                                     </div>
                                 </div>
@@ -171,7 +172,7 @@
                                     </div>
                                     <div class="w-5/6 textcomp">
                                         <div class="flex items-center justify-between header">
-                                            <h1 class="text-white">RUN System</h1>
+                                            <h1 class="text-sm font-bold text-white">RUN System</h1>
                                             <h1 class="text-xs text-white">Internship</h1>
                                         </div>
                                         <div class="flex justify-between sub">
@@ -187,12 +188,12 @@
                                     </div>
                                     <div class="w-5/6 textcomp">
                                         <div class="flex items-center justify-between header">
-                                            <h1 class="text-white">BeautyLux Skincare</h1>
+                                            <h1 class="text-sm font-bold text-white">BeautyLuxS</h1>
                                             <h1 class="text-xs text-white">Internship</h1>
                                         </div>
                                         <div class="flex justify-between sub">
                                             <p class="text-xs text-gray-500">Brand Designer</p>
-                                            <p class="text-xs text-gray-500">Nov 22 - Jan 23</p>
+                                            <p class="text-xs text-gray-500">Jun 22 - Aug 22</p>
                                         </div>
                                     </div>
                                 </div>
