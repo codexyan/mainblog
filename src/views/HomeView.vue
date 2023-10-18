@@ -39,29 +39,33 @@
             <div class="my-6 container-collaborated">
                 <div class="wrap-corated">
                     <h1 class="text-xs text-center text-gray-400 md:text-white md:text-sm">Have Collaborated With</h1>
-                    <div class="flex items-center gap-3 px-4 mx-auto mt-5 md:py-4 md:justify-center md:gap-6 md:rounded-lg md:w-11/12 md:flex-wrap flex-nowrap compicon">
-                        <div class="compimg">
-                            <img src="@/assets/img/compicon/compicons-gray/compicon-1.png" alt="logoweb.png" class="md:h-4">
-                        </div>
-                        <div class="compimg">
-                            <img src="@/assets/img/compicon/compicons-gray/compicon-2.png" alt="logoweb.png" class="md:h-7">
-                        </div>
-                        <div class="compimg">
-                            <img src="@/assets/img/compicon/compicons-gray/compicon-3.png" alt="logoweb.png" class="md:h-8">
-                        </div>
-                        <div class="compimg">
-                            <img src="@/assets/img/compicon/compicons-gray/compicon-4.png" alt="logoweb.png" class="md:h-8">
-                        </div>
-                        <div class="compimg">
-                            <img src="@/assets/img/compicon/compicons-gray/compicon-5.png" alt="logoweb.png" class="md:h-8">
-                        </div>
-                        <div class="compimg">
-                            <img src="@/assets/img/compicon/compicons-gray/compicon-6.png" alt="logoweb.png" class="md:h-4">
-                        </div>
-                        <div class="compimg">
-                            <img src="@/assets/img/compicon/compicons-gray/compicon-7.png" alt="logoweb.png" class="md:h-8">
+
+                    <div class="container md:mt-7">
+                        <div class="flex items-center justify-center gap-4 overflow-x-auto">
+                            <div class="compimg">
+                                <img src="@/assets/img/compicon/compicons-gray/compicon-1.png" alt="logoweb.png" class="object-contain h-12 md:h-8">
+                            </div>
+                            <div class="compimg">
+                                <img src="@/assets/img/compicon/compicons-gray/compicon-2.png" alt="logoweb.png" class="object-contain h-10 md:h-8">
+                            </div>
+                            <div class="compimg">
+                                <img src="@/assets/img/compicon/compicons-gray/compicon-3.png" alt="logoweb.png" class="object-contain h-10 md:h-8">
+                            </div>
+                            <div class="compimg">
+                                <img src="@/assets/img/compicon/compicons-gray/compicon-4.png" alt="logoweb.png" class="object-contain h-10 md:h-8">
+                            </div>
+                            <div class="compimg">
+                                <img src="@/assets/img/compicon/compicons-gray/compicon-5.png" alt="logoweb.png" class="object-contain h-10 md:h-8">
+                            </div>
+                            <div class="compimg">
+                                <img src="@/assets/img/compicon/compicons-gray/compicon-6.png" alt="logoweb.png" class="object-contain h-6 md:h-4">
+                            </div>
+                            <div class="compimg">
+                                <img src="@/assets/img/compicon/compicons-gray/compicon-7.png" alt="logoweb.png" class="object-contain h-10 md:h-8">
+                            </div>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </div>
