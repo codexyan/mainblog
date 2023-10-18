@@ -4,7 +4,7 @@ import { RouterLink } from "vue-router"
 
 <template>
     <nav id="header" class="absolute w-full py-4">
-        <div class="container relative flex flex-wrap items-center justify-between px-8 md:mx-auto md:my-4 md:max-w-7xl md:px-24">
+        <div class="container relative flex flex-wrap items-center justify-between px-4 md:mx-auto md:my-4 md:max-w-7xl md:px-24">
             <!-- Logo -->
             <img src="@/assets/img/logo/logoweb.png" alt="logoweb.png" class="h-8">
             

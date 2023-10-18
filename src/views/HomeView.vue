@@ -1,6 +1,6 @@
 <template>
     <main class="md:w-full md:py-12">
-        <div class="w-auto px-8 mx-auto md:relative md:overflow-hidden md:max-w-7xl md:px-24">
+        <div class="w-auto px-4 mx-auto md:relative md:overflow-hidden md:max-w-7xl md:px-24">
             <!-- Hero Banner -->
             <div class="flex flex-col-reverse gap-4 md:flex md:flex-row sm:flex-col-reverse">
                 <!-- Hero Content -->
@@ -42,31 +42,33 @@
                         Have Worked With
                     </h1>
 
-                    <div class="container mt-3 md:mt-5">
-                        <div class="flex flex-wrap items-center justify-center gap-2 overflow-x-auto md:gap-3">
-                            <div class="flex items-center justify-center h-10 overflow-hidden bg-white rounded-sm bg-opacity-10 w-36 md:w-36 md:h-10 compimg">
-                                <img src="@/assets/img/compicon/compicons-gray/compicon-1.png" alt="logoweb.png" />
-                            </div>
-                            <div class="flex items-center justify-center h-10 p-1 overflow-hidden bg-white rounded-sm w-36 compimg md:h-10 md:w-36 bg-opacity-10">
-                                <img src="@/assets/img/compicon/compicons-gray/compicon-2.png" alt="logoweb.png" class="h-full" />
-                            </div>
-                            <div class="flex items-center justify-center h-10 p-1 overflow-hidden bg-white rounded-sm bg-opacity-10 w-36 compimg md:h-10 md:w-36">
-                                <img src="@/assets/img/compicon/compicons-gray/compicon-3.png" alt="logoweb.png" class="h-full" />
-                            </div>
-                            <div class="flex items-center justify-center h-10 overflow-hidden bg-white rounded-sm bg-opacity-10 w-36 compimg md:h-10 md:w-36">
-                                <img src="@/assets/img/compicon/compicons-gray/compicon-4.png" alt="logoweb.png" class="h-full" />
-                            </div>
-                            <div class="flex items-center justify-center h-10 overflow-hidden bg-white rounded-sm bg-opacity-10 w-36 compimg md:h-10 md:w-36">
-                                <img src="@/assets/img/compicon/compicons-gray/compicon-5.png" alt="logoweb.png" class="h-full" />
-                            </div>
-                            <div class="flex items-center justify-center h-10 p-2 overflow-hidden bg-white rounded-sm bg-opacity-10 w-36 compimg md:h-10 md:w-36">
-                                <img src="@/assets/img/compicon/compicons-gray/compicon-6.png" alt="logoweb.png" />
-                            </div>
-                            <div class="flex items-center justify-center h-10 p-1 overflow-hidden bg-white rounded-sm bg-opacity-10 w-36 compimg md:h-10 md:w-36">
-                                <img src="@/assets/img/compicon/compicons-gray/compicon-7.png" alt="logoweb.png" class="h-full" />
-                            </div>
+                    <div class="grid items-center w-full grid-cols-3 gap-5 mt-4 text-center md:grid-cols-8">
+                        <div class="flex items-center justify-center h-12 px-3 py-4 overflow-hidden bg-white rounded-sm bg-opacity-10 compimg">
+                            <img src="@/assets/img/compicon/compicons-gray/compicon-1.png" alt="logoweb.png" class="" />
+                        </div>
+                        <div class="flex items-center justify-center h-12 px-3 py-4 overflow-hidden bg-white rounded-sm bg-opacity-10 compimg">
+                            <img src="@/assets/img/compicon/compicons-gray/compicon-2.png" alt="logoweb.png" />
+                        </div>
+                        <div class="flex items-center justify-center h-12 px-3 py-4 overflow-hidden bg-white rounded-sm bg-opacity-10 compimg">
+                            <img src="@/assets/img/compicon/compicons-gray/compicon-3.png" alt="logoweb.png" />
+                        </div>
+                        <div class="flex items-center justify-center h-12 px-3 py-4 overflow-hidden bg-white rounded-sm bg-opacity-10 compimg">
+                            <img src="@/assets/img/compicon/compicons-gray/compicon-4.png" alt="logoweb.png" />
+                        </div>
+                        <div class="flex items-center justify-center h-12 px-3 py-4 overflow-hidden bg-white rounded-sm bg-opacity-10 compimg">
+                            <img src="@/assets/img/compicon/compicons-gray/compicon-5.png" alt="logoweb.png" />
+                        </div>
+                        <div class="flex items-center justify-center h-12 px-3 py-4 overflow-hidden bg-white rounded-sm bg-opacity-10 compimg">
+                            <img src="@/assets/img/compicon/compicons-gray/compicon-6.png" alt="logoweb.png" />
+                        </div>
+                        <div class="flex items-center justify-center h-12 px-3 py-4 overflow-hidden bg-white rounded-sm bg-opacity-10 compimg">
+                            <img src="@/assets/img/compicon/compicons-gray/compicon-7.png" alt="logoweb.png" />
+                        </div>
+                        <div class="flex items-center justify-center h-12 px-3 py-4 overflow-hidden bg-white rounded-sm bg-opacity-10 compimg">
+                            <img src="@/assets/img/compicon/compicons-gray/compicon-1.png" alt="logoweb.png" />
                         </div>
                     </div>
+
                 </div>
             </div>
 
