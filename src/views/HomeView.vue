@@ -168,7 +168,7 @@
 
                                 <div class="flex flex-row items-center justify-between w-full gap-4 company">
                                     <div class="flex items-center justify-center w-1/6 imgex">
-                                        <img src="@/assets/img/compicon/exicon.png" alt="exicon.png" />
+                                        <img src="@/assets/img/compicon/runs-icon.png" alt="exicon.png" />
                                     </div>
                                     <div class="w-5/6 textcomp">
                                         <div class="flex items-center justify-between header">
@@ -184,7 +184,7 @@
 
                                 <div class="flex flex-row items-center justify-between w-full gap-4 company">
                                     <div class="flex items-center justify-center w-1/6 imgex">
-                                        <img src="@/assets/img/compicon/exicon.png" alt="exicon.png" />
+                                        <img src="@/assets/img/compicon/bls-icon.png" alt="exicon.png" />
                                     </div>
                                     <div class="w-5/6 textcomp">
                                         <div class="flex items-center justify-between header">
