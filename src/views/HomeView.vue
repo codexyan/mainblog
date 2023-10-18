@@ -1,6 +1,6 @@
 <template>
     <main class="md:w-full md:py-12">
-        <div class="px-8 mx-auto md:relative md:overflow-hidden md:max-w-7xl md:px-24">
+        <div class="px-8 mx-auto max-w-2xlxl md:relative md:overflow-hidden md:max-w-7xl md:px-24">
             <!-- Hero Banner -->
             <div class="flex flex-col-reverse gap-4 md:flex md:flex-row sm:flex-col-reverse">
                 <!-- Hero Content -->
