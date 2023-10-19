@@ -13,7 +13,11 @@ import Footer from "./components/layouts/Footer.vue";
     </div>
   </header>
 
-  <RouterView />
+  <main class="md:w-full md:py-12">
+    <div class="w-auto px-4 mx-auto md:relative md:overflow-hidden md:max-w-7xl md:px-24">
+      <RouterView />
+    </div>
+  </main>
 
   <Footer />
 </template>
