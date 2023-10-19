@@ -1,3 +1,6 @@
+<script setup>
+</script>
+
 <template>
     <div class="my-12 md:my-6 container-collaborated">
         <div class="wrap-corated">
@@ -36,9 +39,10 @@
                 </div>
                 <div
                     class="flex items-center justify-center h-12 px-3 py-4 overflow-hidden bg-white rounded-sm bg-opacity-10 compimg">
-                <img src="@/assets/img/compicon/compicons-gray/compicon-8.png" alt="logoweb.png" />
+                    <img src="@/assets/img/compicon/compicons-gray/compicon-8.png" alt="logoweb.png" />
+                </div>
             </div>
-        </div>
 
+        </div>
     </div>
-</div></template>
+</template>

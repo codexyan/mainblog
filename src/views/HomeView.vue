@@ -1,5 +1,5 @@
 <script setup>
-import Hero from '../components/homepage/hero/hero.vue';
+import Hero from '../components/homepage/hero/Hero.vue';
 import Collaboration from '../components/homepage/collaboration/Collaboration.vue';
 import Content from '../components/homepage/content/Content.vue'
 </script>
