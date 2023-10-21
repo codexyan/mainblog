@@ -31,8 +31,8 @@ import Images from '../components/homepage/hero/Images.vue';
 
                     <div class="flex flex-row flex-wrap items-center gap-3 filters">
                         <h1 class="text-gray-300 text-md md:text-base">Filters :</h1>
-                        <a href="#" class="px-3 py-1 text-xs text-gray-400 bg-gray-800 rounded-sm md:text-base">General</a>
-                        <a href="#"
+                        <a href="http://localhost:5173/article-blog" class="px-3 py-1 text-xs text-gray-400 bg-gray-800 rounded-sm md:text-base">General</a>
+                        <a href="http://localhost:5173/article-blog"
                             class="px-3 py-1 text-xs text-gray-400 bg-gray-800 rounded-sm md:text-base">Programming</a>
                     </div>
 
@@ -43,7 +43,7 @@ import Images from '../components/homepage/hero/Images.vue';
                                     <img class="h-full" src="@/assets/img/images/img-card-artdir.png" alt="card.png" />
                                 </div>
                                 <div class="flex flex-col gap-4 content-card">
-                                    <a href="#" class="text-sm font-bold text-gray-200 md:text-xl">
+                                    <a href="http://localhost:5173/article-blog" class="text-sm font-bold text-gray-200 md:text-xl">
                                         Nekat Jadi PM Director
                                     </a>
                                     <p
@@ -51,7 +51,7 @@ import Images from '../components/homepage/hero/Images.vue';
                                         Jelajahi Kreativitas Tanpa Batas: Pahami Gestalt Principle
                                         dalam Satu Praktek!
                                     </p>
-                                    <a href="#" class="text-sm font-semibold text-indigo-500">Read More »</a>
+                                    <a href="http://localhost:5173/article-blog" class="text-sm font-semibold text-indigo-500">Read More »</a>
                                 </div>
                             </div>
                         </div>
@@ -61,7 +61,7 @@ import Images from '../components/homepage/hero/Images.vue';
                                     <img class="h-full" src="@/assets/img/images/img-card-artdir.png" alt="card.png" />
                                 </div>
                                 <div class="flex flex-col gap-4 content-card">
-                                    <a href="#" class="text-sm font-bold text-gray-200 md:text-xl">
+                                    <a href="http://localhost:5173/article-blog" class="text-sm font-bold text-gray-200 md:text-xl">
                                         Nekat Jadi PM Director
                                     </a>
                                     <p
@@ -69,7 +69,7 @@ import Images from '../components/homepage/hero/Images.vue';
                                         Jelajahi Kreativitas Tanpa Batas: Pahami Gestalt Principle
                                         dalam Satu Praktek!
                                     </p>
-                                    <a href="#" class="text-sm font-semibold text-indigo-500">Read More »</a>
+                                    <a href="http://localhost:5173/article-blog" class="text-sm font-semibold text-indigo-500">Read More »</a>
                                 </div>
                             </div>
                         </div>
@@ -79,7 +79,7 @@ import Images from '../components/homepage/hero/Images.vue';
                                     <img class="h-full" src="@/assets/img/images/img-card-artdir.png" alt="card.png" />
                                 </div>
                                 <div class="flex flex-col gap-4 content-card">
-                                    <a href="#" class="text-sm font-bold text-gray-200 md:text-xl">
+                                    <a href="http://localhost:5173/article-blog" class="text-sm font-bold text-gray-200 md:text-xl">
                                         Nekat Jadi PM Director
                                     </a>
                                     <p
@@ -87,7 +87,7 @@ import Images from '../components/homepage/hero/Images.vue';
                                         Jelajahi Kreativitas Tanpa Batas: Pahami Gestalt Principle
                                         dalam Satu Praktek!
                                     </p>
-                                    <a href="#" class="text-sm font-semibold text-indigo-500">Read More »</a>
+                                    <a href="http://localhost:5173/article-blog" class="text-sm font-semibold text-indigo-500">Read More »</a>
                                 </div>
                             </div>
                         </div>
@@ -97,7 +97,7 @@ import Images from '../components/homepage/hero/Images.vue';
                                     <img class="h-full" src="@/assets/img/images/img-card-artdir.png" alt="card.png" />
                                 </div>
                                 <div class="flex flex-col gap-4 content-card">
-                                    <a href="#" class="text-sm font-bold text-gray-200 md:text-xl">
+                                    <a href="http://localhost:5173/article-blog" class="text-sm font-bold text-gray-200 md:text-xl">
                                         Nekat Jadi PM Director
                                     </a>
                                     <p
@@ -105,7 +105,7 @@ import Images from '../components/homepage/hero/Images.vue';
                                         Jelajahi Kreativitas Tanpa Batas: Pahami Gestalt Principle
                                         dalam Satu Praktek!
                                     </p>
-                                    <a href="#" class="text-sm font-semibold text-indigo-500">Read More »</a>
+                                    <a href="http://localhost:5173/article-blog" class="text-sm font-semibold text-indigo-500">Read More »</a>
                                 </div>
                             </div>
                         </div>

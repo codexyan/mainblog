@@ -18,12 +18,11 @@ import Images from '../components/homepage/hero/Images.vue';
                 </p>
                 <h6 class="mt-5 text-gray-200 py-2 px-5 text-sm rounded-md bg-gray-900 w-max">💡 What do you do ? </h6>
                 <p class="mt-4 text-sm leading-7 text-gray-400 md:text-sm md:leading-7">
-                    Sehari-hari bekerja sebagai Frontend Engineer, namun tidak terbatas pada itu, saya juga senang
-                    mengeksplorasi design UI dan kemudahan pengguna dalam berselancar dengan aplikasi, mungkin saat ini
+                    Dengan sedikit background sebelumnya di <a class="underline decoration-sky-500 text-sky-500 font-bold">Kreatif Industri</a> saat ini saya sedang mulai belajar lagi untuk menjadi <a class="underline decoration-sky-500 text-sky-500 font-bold">Frontend Engineer</a>, namun tidak terbatas pada itu, saya juga senang mengeksplorasi design UI dan kemudahan pengguna dalam berselancar dengan aplikasi, mungkin saat ini
                     menyebutnya UX Engineer bukan?
                 </p>
                 <p class="mt-4 text-sm leading-7 text-gray-400 md:text-sm md:leading-7">
-                    Akrab dengan dunia teknologi sejak duduk di bangku SMP. Serius menekuni dunia perkodean dimulai sejak akhir 2021. Dimulai dari belajar bahasa C++ pada awal perkuliahan, kemudian berlanjut ke bidang Front-end dan keterusan untuk mempelajarinya. Namun kemudian nyaman dan memutuskan berlabuh di dunia developer. Menulis kode dalam bahasa TypeScript (JavaScript), dan Dart (Flutter).
+                    Akrab dengan dunia teknologi sejak duduk di bangku SMP. Serius menekuni dunia perkodean dimulai sejak akhir 2021. Dimulai dari belajar bahasa C++ pada awal perkuliahan, kemudian berlanjut ke bidang Front-end dan keterusan untuk mempelajarinya. Namun kemudian nyaman dan memutuskan berlabuh di dunia developer. Menulis kode dalam bahasa TypeScript (JavaScript).
                 </p>
                 <p class="mt-4 text-sm leading-7 text-gray-400 md:text-sm md:leading-7">
                     Lulus (2022) dari bangku kuliah sebagai Mahasiswa Informatika di Universitas Amikom Yogyakarta, Daerah Istimewa Yogyakarta.

@@ -62,11 +62,11 @@
         <section id="developer" class="my-8">
             <h1 class="text-white text-xl font-semibold mb-2">‣ Web Deploying</h1>
 
-            <div class="container mx-auto flex md:flex-row flex-col gap-6">
+            <div class="container mx-auto flex md:flex-row flex-col gap-3">
                 <!-- Card -->
                 <div class="bottom-0 md:w-2/3 items-center text-center transform flex justify-center rounded-lg">
                     <div
-                        class="content flex flex-col md:w-full mx-auto gap-3 text-left mt-5 p-5 bg-gray-500 bg-opacity-50 rounded-lg">
+                        class="content flex flex-col md:w-full mx-auto gap-3 text-left mt-5 p-4 md:p-5 bg-gray-500 bg-opacity-50 rounded-lg">
                         <div class="banner-card relative">
                             <img src="../assets/img/images/card-web.png" alt="cardweb.png" class="rounded-md">
                             <p
@@ -103,7 +103,7 @@
                         </div>
                         <div class="left flex flex-col gap-2 md:w-full">
                             <p class="text-white text-base md:text-xl font-semibold">
-                                Healingoo Landing Pages
+                                Web UMKM Lokal
                             </p>
                             <p class="md:inline hidden text-xs font-light text-gray-400 leading-5">
                                 Avoskin is the best products from natural ingredients. No wonder now that Avoskin can become one of
@@ -130,7 +130,7 @@
                         </div>
                         <div class="left flex flex-col gap-2 md:w-full">
                             <p class="text-white text-base md:text-xl font-semibold">
-                                Healingoo Landing Pages
+                                Web Pencarian Film
                             </p>
                             <p class="md:inline hidden text-xs font-light text-gray-400 leading-5">
                                 Avoskin is the best products from natural ingredients. No wonder now that Avoskin can become one of
